@@ -8,7 +8,7 @@
  *
  * The STL contains a large number of useful functions and algorithm.
  * One useful function is `inner_product` which can be used to compute
- * the sum oof the elements of two vectors.
+ * the sum of the elements of two vectors.
  */
 
 #include <Rcpp.h>
